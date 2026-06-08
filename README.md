@@ -3,6 +3,10 @@
   <!-- ![Typing SVG] --> <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=40&duration=4000&pause=500&background=FFD7DD50&center=true&vCenter=true&width=435&height=85&lines=Eman's+GitHub" />
 </h1>
 
+<p align="center">
+Lover of technology, language learning, and literature
+</p>
+
 <!--
 Here are some ideas to get you started:
 
