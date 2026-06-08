@@ -1,9 +1,9 @@
-<div align="center">
-## Eman's GitHub
-</div>
-<!--
-**whosinmyHub/whosinmyHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h1 align="center">
+  <!-- ![Typing SVG] --> <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=40&duration=4000&pause=500&background=FFD7DD50&center=true&vCenter=true&width=435&height=85&lines=Eman's+GitHub" />
+</h1>
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
