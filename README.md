@@ -4,8 +4,13 @@
 </h1>
 
 <p align="center">
-Lover of technology, language learning, and literature
-</p>
+<b>❤️s</b> <br/> 
+<img src="https://forthebadge.com/api/badges/generate?panels=3&primaryLabel=Technology&secondaryLabel=literature&primaryBGColor=%2331C4F3&primaryTextColor=%23ffffff&secondaryBGColor=%23389AD5&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&tertiaryLabel=language-learning&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&tertiaryFontSize=12&tertiaryFontWeight=700&tertiaryLetterSpacing=2&tertiaryFontFamily=Roboto&tertiaryTextTransform=uppercase"/>
+  
+<p/>
+
+<!--Replace <username> with your own GitHub username.-->
+
 
 <!--
 Here are some ideas to get you started:
